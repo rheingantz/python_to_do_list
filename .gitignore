@@ -1,0 +1,10 @@
+src/__pycache__/
+src/functions/__pycache__
+src/functions/button_triggers/__pycache__
+src/interface_display/__pycache__
+src/interface_display/user_interface.ui
+include/
+test/
+Lib/
+Scripts/
+pyvenv.cfg
